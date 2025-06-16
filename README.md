@@ -9,11 +9,7 @@
 
 ## 🌟 About Me
 
-- 🎯 **Driven Data Analyst** with a passion for turning raw data into actionable insights.
-- 🧰 Proficient in **Python, SQL, Power BI, Excel, and R** for data wrangling, visualization, and reporting.
-- 🤝 Eager to join a supportive, growth-focused company and tackle real-world data challenges.
-- 🚀 Open to collaborations on analytics projects, business dashboards, and process automation.
-- 💡 Constantly expanding knowledge in data analytics and cloud data tools.
+A passionate Data Analyst with expertise in Python, SQL, Power BI, and Excel. I thrive on transforming raw data into actionable insights that drive business success. I enjoy solving real-world problems, building dashboards, and continuously expanding my analytics skillset.
 
 ---
 
@@ -70,11 +66,19 @@
 
 ## 🎓 Certifications
 
-- **Data Analytics Specialization (Coursera)**
-- **Python for Data Science**
-- **Power BI Desktop for Business Intelligence**
-- **Advanced Excel for Data Analysis**
-- **SQL for Data Science**
+- **360DigiTMG Data Analytics Course**  
+  _Comprehensive training in data analytics covering Python, SQL, Power BI, Excel, Tableau, and R._
+- **Tool-Specific Certificates (360DigiTMG):**  
+  - Python for Data Analysis  
+  - SQL for Data Analysis  
+  - Power BI for Data Visualization  
+  - Excel Advanced Analytics  
+  - Tableau for Data Visualization  
+  - R for Data Science
+- **NASSCOM Certificate**  
+  _Certified Data Analyst (NASSCOM)_
+- **SUNY Certificate**  
+  _Data Analysis and Visualization (SUNY)_
 
 ---
 
@@ -96,18 +100,3 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=p758095.p758095" alt="Visitors">
 </p>
-
-<!--
-**p758095/p758095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
