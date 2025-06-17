@@ -15,9 +15,12 @@ A passionate Data Analyst with expertise in Python, SQL, Power BI, and Excel. I 
 
 ## 🛠️ Skills & Tools
 
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), R
-- **Databases:** SQL (MySQL, PostgreSQL), MS Access
-- **Visualization:** Power BI, Tableau, Excel (Advanced)
+- **Python:** Data cleaning, analysis, automation, Pandas, NumPy, Matplotlib, Seaborn
+- **SQL:** Data extraction, transformation, reporting, MySQL, PostgreSQL
+- **Power BI:** Interactive dashboards, data visualization, DAX
+- **Excel:** Advanced analytics, dashboards, automation with VBA
+- **Tableau:** Data visualization, storytelling
+- **R:** Statistical analysis, data modeling
 - **Other:** Git, Jupyter, VS Code
 - **Soft Skills:** Problem Solving, Communication, Data Storytelling
 
@@ -43,14 +46,17 @@ A passionate Data Analyst with expertise in Python, SQL, Power BI, and Excel. I 
 
 ## 🏆 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Pharmaceutical Inventory Analysis and Optimization](https://github.com/p758095/pharmaceutical-inventory-analysis) | Optimize inventory costs and improve medicine availability using data analytics. | Python, SQL, Power BI |
-| [E-Commerce Data Analysis Using Power BI](https://github.com/p758095/ecommerce-powerbi-dashboard) | Interactive dashboard for sales, customer segmentation, and trends. | Power BI, Excel |
-| [Sentiment Analysis of Flipkart Product Reviews](https://github.com/p758095/flipkart-sentiment-analysis) | Project for classifying and visualizing product review sentiments. | Python |
-| [Sales Data Dashboard (Power BI)](https://github.com/p758095/sales-data-dashboard) | Track sales KPIs and discover actionable insights for growth. | Power BI |
-| [SQL Data Exploration](https://github.com/p758095/sql-data-exploration) | Advanced SQL queries for business analysis. | SQL |
-| [Excel Reporting Automation](https://github.com/p758095/excel-automation) | Automate repetitive Excel reporting tasks with macros. | Excel, VBA |
+### **Pharmaceutical Inventory Analysis and Optimisation**
+- **Python:** Automated data cleaning, inventory forecasting
+- **SQL:** Inventory data extraction & reporting
+- **Power BI:** Interactive dashboards for stock movement and optimization
+- **Excel:** Advanced analysis and scenario modeling
+
+### **E-Commerce Sales Analysis and Performance Optimisation**
+- **Power BI:** Dynamic sales dashboards and KPI tracking
+- **SQL:** Customer segmentation and sales trend analysis
+- **Python:** Data preprocessing and sales prediction modeling
+- **Excel:** Automated reporting and what-if analysis
 
 ---
 
