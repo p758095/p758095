@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pradeep Kumar Vishwakarma
 
-🔎 Data Analyst | Python | SQL (PostgreSQL /MySQL) | Power BI | Excel | Data Visualization 
+🔎 Data Analyst | Python | SQL (PostgreSQL) | Power BI | Excel | Data Visualization | Spyder
 
 ---
 
@@ -23,7 +23,22 @@ I am a results-driven Data Analyst with **1 year** of hands-on experience transf
 
 ---
 
-## 🚀 Featured Projects & Data Analysis Pipelines
+## 🚀 Typical Data Pipeline Flowchart
+
+```mermaid
+flowchart TD
+    A[Data Sources\n(CSV, Excel, Web, Databases)] --> B[Data Ingestion\n(Python, SQL, ETL)]
+    B --> C[Data Storage\n(PostgreSQL, Excel)]
+    C --> D[Data Cleaning\n(Python: pandas, Spyder)]
+    D --> E[Exploratory Data Analysis\n(Python: pandas, seaborn, matplotlib)]
+    E --> F[Statistical Analysis\n(Python: scipy, statsmodels)]
+    F --> G[Dashboard & Report Creation\n(Power BI, Tableau)]
+    G --> H[Business Insights & Presentation\n(PowerPoint, Email)]
+```
+
+---
+
+## 🚀 Featured Projects & Specific Pipelines
 
 ### 💊 Pharmaceutical Inventory Analysis & Sales Optimization
 
