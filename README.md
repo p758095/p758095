@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pradeep Kumar Vishwakarma
 
-🔎 Data Analyst | Python | SQL (PostgreSQL) | Power BI | Excel | Data Visualization | Spyder
+🔎 Data Analyst | Python | SQL (PostgreSQL / MySQL) | Power BI | Excel | Data Visualization 
 
 ---
 
