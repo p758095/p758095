@@ -1,22 +1,25 @@
 # 👋 Hi, I'm Pradeep Kumar Vishwakarma
 
-🔎 Data Analyst | Python | SQL (PostgreSQL) | Power BI | Excel | Data Visualization
+🔎 Data Analyst | Python | SQL (PostgreSQL) | Power BI | Excel | Data Visualization | Spyder
 
 ---
 
 ## 🌟 About Me
 
-I am a passionate Data Analyst with **1 year** of experience transforming raw data into actionable insights. My expertise lies in Python, SQL (PostgreSQL), Power BI, and Excel. I enjoy solving business challenges by uncovering trends and crafting compelling dashboards.
+I am a results-driven Data Analyst with **1 year** of hands-on experience transforming raw data into actionable business insights. I specialize in leveraging Python (including the Spyder IDE), PostgreSQL, Power BI, and Excel to solve real-world problems and help organizations make data-driven decisions. My approach combines technical expertise with a passion for clear storytelling and impactful visualizations.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, SQL (PostgreSQL), R
-- **Analytics & Visualization:** Power BI, Tableau, Excel (Advanced), matplotlib, seaborn
-- **Data Handling:** pandas, numpy, Jupyter, MySQL
-- **Workflow:** Git, VS Code, Data Pipeline Automation
-- **Soft Skills:** Problem Solving, Data Storytelling, Communication
+- **Programming & Querying:** Python (pandas, numpy, matplotlib, seaborn), SQL (PostgreSQL, MySQL), R
+- **IDE & Environment:** Spyder, Jupyter Notebook, VS Code
+- **Business Intelligence:** Power BI, Tableau
+- **Data Handling:** Advanced Excel
+- **Statistical Analysis:** Hypothesis testing, A/B testing, regression, correlation
+- **Data Engineering:** Data pipeline automation, ETL with Python & SQL
+- **Collaboration & Workflow:** Git, GitHub
+- **Soft Skills:** Analytical Thinking, Data Storytelling, Problem Solving, Effective Communication
 
 ---
 
@@ -26,16 +29,15 @@ I am a passionate Data Analyst with **1 year** of experience transforming raw da
 
 ```mermaid
 graph TD
-    A[Data Loading & Schema Setup<br/>(PostgreSQL)] --> B[Data Quality Checks<br/>(PostgreSQL)]
-    B --> C[Exploratory Data Analysis<br/>(Python: pandas, seaborn)]
-    C --> D[Data Cleaning & Preprocessing<br/>(Python)]
-    D --> E[Statistical Testing<br/>(Python: scipy)]
-    E --> F[Dashboarding<br/>(Power BI)]
-    F --> G[Presentation<br/>(PowerPoint)]
+    A[Data Loading & Schema Setup\n(PostgreSQL)] --> B[Data Quality Checks\n(PostgreSQL)]
+    B --> C[Exploratory Data Analysis\n(Python: pandas, seaborn, Spyder)]
+    C --> D[Data Cleaning & Preprocessing\n(Python, Spyder)]
+    D --> E[Statistical Testing\n(Python: scipy)]
+    E --> F[Dashboarding\n(Power BI)]
+    F --> G[Presentation\n(PowerPoint)]
 ```
-
-- **Description:** Optimized pharma inventory decisions, reduced expiry losses, and revealed sales patterns using SQL (PostgreSQL), Python, and Power BI.
-- **Key Insights:** Mood Stabilizers & Analgesics drove 70%+ sales; Paris, Berlin, Madrid were top cities; Retail outperformed hospital channel.
+- **Impact:** Reduced expiry losses, improved inventory turnover, and enhanced sales performance.
+- **Key Insights:** Mood Stabilizers & Analgesics accounted for 70%+ sales; Paris, Berlin, Madrid were top-performing cities; retail channels had higher sales than hospitals.
 
 ---
 
@@ -43,16 +45,15 @@ graph TD
 
 ```mermaid
 graph TD
-    A[Data Import & Integration<br/>(PostgreSQL/Python)] --> B[Data Cleaning<br/>(Python: pandas)]
-    B --> C[Feature Engineering<br/>(Python)]
-    C --> D[EDA & Visualization<br/>(Python: seaborn, matplotlib)]
-    D --> E[Business Q&A/Statistical Tests<br/>(Python: scipy)]
-    E --> F[Dashboarding<br/>(Power BI)]
-    F --> G[Reporting<br/>(PowerPoint)]
+    A[Data Import & Integration\n(PostgreSQL/Python)] --> B[Data Cleaning\n(Python: pandas, Spyder)]
+    B --> C[Feature Engineering\n(Python, Spyder)]
+    C --> D[EDA & Visualization\n(Python: seaborn, matplotlib, Spyder)]
+    D --> E[Business Q&A/Statistical Tests\n(Python: scipy)]
+    E --> F[Dashboarding\n(Power BI)]
+    F --> G[Reporting\n(PowerPoint)]
 ```
-
-- **Description:** Analyzed 1 year of sales, customer, and product data to drive business strategy and marketing campaigns.
-- **Key Insights:** Corporate & Small Business segments dominate revenue; Mumbai, Bengaluru, Jaipur are revenue hubs; Bundling increases AOV.
+- **Impact:** Helped define targeted marketing strategies and optimized product bundling.
+- **Key Insights:** Corporate & Small Business segments generated the majority of revenue; Mumbai, Bengaluru, and Jaipur were revenue leaders; product bundling increased average order value.
 
 ---
 
@@ -60,31 +61,32 @@ graph TD
 
 ```mermaid
 graph TD
-    A[Data Extraction<br/>(PostgreSQL/Excel)] --> B[Data Cleaning<br/>(Python)]
-    B --> C[EDA & KPI Calculation<br/>(Python)]
-    C --> D[Dashboard Development<br/>(Power BI/Tableau)]
-    D --> E[Insight Sharing<br/>(PowerPoint/Email)]
+    A[Data Extraction\n(PostgreSQL/Excel)] --> B[Data Cleaning\n(Python, Spyder)]
+    B --> C[EDA & KPI Calculation\n(Python, Spyder)]
+    C --> D[Dashboard Development\n(Power BI/Tableau)]
+    D --> E[Insight Sharing\n(PowerPoint/Email)]
 ```
-
-- **Description:** Enabled HR teams to monitor attrition, performance, and diversity; led to actionable workforce recommendations.
+- **Impact:** Enabled HR leaders to proactively reduce attrition and enhance workplace diversity.
+- **Key Insights:** Identified at-risk employee segments, improved retention strategies, and visualized workforce diversity metrics.
 
 ---
 
 ## 🏆 Certifications
 
-- 360DigiTMG Data Analytics Course
-- NASSCOM Certified Data Analyst
-- SUNY Certificate in Data Analysis & Visualization
-- Power BI Specialist (360DigiTMG)
-- Python for Data Analysis (360DigiTMG)
+- **360DigiTMG Data Analytics Course**
+- **NASSCOM Certified Data Analyst**
+- **SUNY Certificate in Data Analysis & Visualization**
+- **Power BI Specialist (360DigiTMG)**
+- **Python for Data Analysis (360DigiTMG)**
 
 ---
 
 ## 💡 Achievements
 
-- Automated reporting systems saving 100+ analyst hours yearly
-- Delivered insights that shaped pricing, inventory, and marketing strategy
-- Presented findings to executive teams, leading to data-driven business growth
+- Automated reporting systems, saving 100+ analyst hours every year.
+- Delivered actionable insights that shaped pricing, inventory, and marketing strategies.
+- Presented findings to executives, enabling data-driven decisions and measurable business growth.
+- Consistently recognized for clear communication and impactful visualizations.
 
 ---
 
@@ -98,7 +100,7 @@ graph TD
 
 ---
 
-## 🤝 Let’s Connect!
+## 🌐 Let's Connect!
 
 - 📧 [pradeepvishwakarma8878@gmail.com](mailto:pradeepvishwakarma8878@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/pradeep-kumar-vishwakarma/)
